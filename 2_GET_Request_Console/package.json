@@ -1,0 +1,15 @@
+{
+  "name": "get_request_console_package",
+  "version": "1.0.0",
+  "description": "Packages Repository for 2_GET_Request_Console NodeJS Exercice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "SmashScharrer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
