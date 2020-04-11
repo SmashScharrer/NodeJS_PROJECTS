@@ -1,0 +1,17 @@
+{
+  "name": "post_request_console_package",
+  "version": "1.0.0",
+  "description": "ackages Repository for 4_POST_Request_Console NodeJS Exercice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "SmashScharrer",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1"
+  }
+}
