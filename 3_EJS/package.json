@@ -1,0 +1,16 @@
+{
+  "name": "package_ejs",
+  "version": "1.0.0",
+  "description": "Packages Repository for 3_EJS  NodeJS Exercice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "SmashScharrer",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1"
+  }
+}
